@@ -1,0 +1,38 @@
+@media (min-width: 576px) { 
+       .width-half{
+              width:90%;
+       }
+       .margin{
+              margin-left: 5%;
+              margin-right: 5%;
+              margin-top: 30px;
+       }
+       img{
+              width: 100%;
+       }
+       
+       h1 {
+              font-size: 30px;
+              font-weight: 700;
+          }
+          
+          
+          h2 {
+              font-size: 20px;
+          }
+          
+          p {
+              font-size: 15px;
+              color: orange;
+          }
+          
+          a {
+              text-decoration: none;
+              color: white;
+              background: orangered;
+              padding: 10px 20px;
+              border-radius: 5px;
+              margin-top: 5px;
+              display: inline-block;
+          }
+}
