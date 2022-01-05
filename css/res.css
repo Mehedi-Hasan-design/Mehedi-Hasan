@@ -1,4 +1,46 @@
-@media (min-width: 10px) and (max-width: 576px) {
+@media (min-width: 10px) and (max-width: 568px) {
+       section{
+              display: inline-block;
+       } 
+       .width-half{
+              width:90%;
+       }
+       .margin{
+              margin-left: 5%;
+              margin-right: 5%;
+              margin-top: 15px;
+       }
+       img{
+              width: 100%;
+       }
+       
+       h1 {
+              font-size: 30px;
+              font-weight: 700;
+          }
+          
+          
+          h2 {
+              font-size: 20px;
+          }
+          
+          p {
+              font-size: 15px;
+              color: orange;
+          }
+          
+          a {
+              text-decoration: none;
+              color: white;
+              background: orangered;
+              padding: 10px 20px;
+              border-radius: 5px;
+              margin-top: 5px;
+              display: inline-block;
+          }
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) { 
        section{
               display: inline-block;
        } 
