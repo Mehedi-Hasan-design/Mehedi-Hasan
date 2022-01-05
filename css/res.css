@@ -1,4 +1,7 @@
-@media (min-width: 576px) { 
+@media (min-width: 576px) {
+       section{
+              display: inline-block;
+       } 
        .width-half{
               width:90%;
        }
